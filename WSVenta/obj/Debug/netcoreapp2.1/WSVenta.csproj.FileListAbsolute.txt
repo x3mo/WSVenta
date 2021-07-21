@@ -1,0 +1,14 @@
+D:\personal\Curso\sistVentas\cSharp\WSVenta\WSVenta\bin\Debug\netcoreapp2.1\WSVenta.deps.json
+D:\personal\Curso\sistVentas\cSharp\WSVenta\WSVenta\bin\Debug\netcoreapp2.1\WSVenta.runtimeconfig.json
+D:\personal\Curso\sistVentas\cSharp\WSVenta\WSVenta\bin\Debug\netcoreapp2.1\WSVenta.runtimeconfig.dev.json
+D:\personal\Curso\sistVentas\cSharp\WSVenta\WSVenta\bin\Debug\netcoreapp2.1\WSVenta.dll
+D:\personal\Curso\sistVentas\cSharp\WSVenta\WSVenta\bin\Debug\netcoreapp2.1\WSVenta.pdb
+D:\personal\Curso\sistVentas\cSharp\WSVenta\WSVenta\obj\Debug\netcoreapp2.1\WSVenta.csprojAssemblyReference.cache
+D:\personal\Curso\sistVentas\cSharp\WSVenta\WSVenta\obj\Debug\netcoreapp2.1\WSVenta.csproj.CoreCompileInputs.cache
+D:\personal\Curso\sistVentas\cSharp\WSVenta\WSVenta\obj\Debug\netcoreapp2.1\WSVenta.RazorAssemblyInfo.cache
+D:\personal\Curso\sistVentas\cSharp\WSVenta\WSVenta\obj\Debug\netcoreapp2.1\WSVenta.RazorAssemblyInfo.cs
+D:\personal\Curso\sistVentas\cSharp\WSVenta\WSVenta\obj\Debug\netcoreapp2.1\WSVenta.AssemblyInfoInputs.cache
+D:\personal\Curso\sistVentas\cSharp\WSVenta\WSVenta\obj\Debug\netcoreapp2.1\WSVenta.AssemblyInfo.cs
+D:\personal\Curso\sistVentas\cSharp\WSVenta\WSVenta\obj\Debug\netcoreapp2.1\WSVenta.RazorTargetAssemblyInfo.cache
+D:\personal\Curso\sistVentas\cSharp\WSVenta\WSVenta\obj\Debug\netcoreapp2.1\WSVenta.dll
+D:\personal\Curso\sistVentas\cSharp\WSVenta\WSVenta\obj\Debug\netcoreapp2.1\WSVenta.pdb
